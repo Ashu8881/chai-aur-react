@@ -4,9 +4,9 @@ function App() {
   
 
   return (
- <h1>react with vite</h1>
-      
+ <><Chai /><Test01 /></>
   )
 }
-
+import Chai from "./chai"
+import Test01 from "./test"
 export default App
